@@ -1,0 +1,8 @@
+enviroments:
+  dev:
+    url : http://www.baidu.com
+    name : developer setup
+
+  prod:
+     url : http://www.baidu.com
+     name : my color app
